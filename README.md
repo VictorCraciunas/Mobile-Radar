@@ -64,7 +64,7 @@ flutter run
 - The `networking.dart` class handles network communication with the ESP8266.
 
 ### **Radar UI and Object Detection**
-- The radar sweeps in **360 degrees**, updating the screen in real time.
+- The radar sweeps in **180 degrees**, updating the screen in real time.
 - Detected objects appear as **animated circles** and fade over time.
 - A **Sweep Gradient** is used for radar beam effects.
 
