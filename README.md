@@ -39,7 +39,7 @@ MobileRadar/
 ## Installation & Running the Application
 ### 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/Mobile-Radar.git
+git clone https://github.com/VictorCraciunas/Mobile-Radar.git
 cd Mobile-Radar
 ```
 
